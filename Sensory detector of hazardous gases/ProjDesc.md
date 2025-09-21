@@ -4,8 +4,8 @@
 ### Project Overview
 Developed a prototype gas detection system to address ammonia and hydrogen sulphide emissions in poultry farms, which pose risks to both livestock and personnel. The project involved fabricating ZnO thin-film sensors using RF sputtering and photolithography, designing and simulating the amplifier circuit in Proteus and KiCAD, and integrating the system with an STM32 microcontroller. A display module (TM1637) and alarm were added to alert when gas concentration exceeded safe limits.
 
-![Gas Sensor Prototype](prototype_setup.jpg)
-*Prototype setup showing STM32 NUCLEO-G071RB development board with connected breadboard, custom green PCB, and magnified view of the ZnO thin-film sensor array*
+![Gas Sensor Prototype](Prototype.jpg)
+*Prototype setup showing STM32 NUCLEO-G071RB development board with connected breadboard, custom PCB, and magnified view of the ZnO thin-film sensor array*
 
 ### Key Components
 - **ZnO Thin-film Sensors** - Fabricated using RF sputtering and photolithography
